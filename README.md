@@ -8,9 +8,10 @@ Delete any existing files.
 
 Inside the file:
 
-`
+```
 #!/bin/bash
-php /home/zero/motd.php`
+php /home/zero/motd.php
+```
 
 `chmod +x 0x-motd`
 
