@@ -17,7 +17,7 @@ php /home/zero/motd.php
 
 `chmod +x 0x-motd`
 
-Add motd.php (from this repo ) into /home/zero
+Add motd.php (from this repo) into `/home/zero`
 
 Delete the contents of `/etc/motd`
 
